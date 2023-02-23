@@ -1,5 +1,5 @@
 
-# Código Node.js para tutoriais RabbitMQ
+# Exemplo de RabbitMQ com Node.js
 
 Para usar os exemplos com sucesso, você precisará de um servidor RabbitMQ em execução.
 
